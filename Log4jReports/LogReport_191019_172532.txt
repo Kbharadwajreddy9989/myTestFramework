@@ -1,0 +1,7 @@
+[INFO] 2019-10-19 17:26:30,475 LibraryFiles.Log4jInFile BeforeTest - Entering B4 test and instantiating extent report
+[INFO] 2019-10-19 17:26:33,737 LibraryFiles.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-10-19 17:26:33,757 LibraryFiles.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-10-19 17:26:57,852 LibraryFiles.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-10-19 17:27:01,579 LibraryFiles.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-10-19 17:27:50,918 LibraryFiles.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-10-19 17:27:54,556 LibraryFiles.Log4jInFile AfterTest - Reached after test & closing extent object

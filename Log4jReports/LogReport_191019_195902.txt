@@ -1,0 +1,16 @@
+[INFO] 2019-10-19 19:59:02,828 Configuration.Log4jInFile BeforeTest - =======Starting new testcase here====== 
+[INFO] 2019-10-19 19:59:02,828 Configuration.Log4jInFile BeforeTest - =======Starting new testcase here====== 
+[INFO] 2019-10-19 19:59:02,922 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-10-19 19:59:02,922 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-10-19 19:59:02,937 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-10-19 19:59:02,937 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-10-19 19:59:13,689 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-10-19 19:59:13,689 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-10-19 19:59:21,952 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-10-19 19:59:21,952 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-10-19 19:59:24,953 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the failed testcase
+[INFO] 2019-10-19 19:59:24,953 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the failed testcase
+[INFO] 2019-10-19 19:59:25,404 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-10-19 19:59:25,404 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-10-19 19:59:28,518 Configuration.Log4jInFile AfterTest - Reached after test & closing extent object
+[INFO] 2019-10-19 19:59:28,518 Configuration.Log4jInFile AfterTest - Reached after test & closing extent object

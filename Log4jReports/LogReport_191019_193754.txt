@@ -1,0 +1,8 @@
+[INFO] 2019-10-19 19:38:12,139 LibraryFiles.Log4jInFile BeforeTest - /n=======Starting new testcase here====== 
+[INFO] 2019-10-19 19:38:12,245 LibraryFiles.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-10-19 19:38:12,268 LibraryFiles.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-10-19 19:38:21,583 LibraryFiles.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-10-19 19:38:31,922 LibraryFiles.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-10-19 19:38:34,924 LibraryFiles.Log4jInFile onTestSuccess - Taking screen shot for the failed testcase
+[INFO] 2019-10-19 19:38:35,366 LibraryFiles.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-10-19 19:38:38,476 LibraryFiles.Log4jInFile AfterTest - Reached after test & closing extent object
