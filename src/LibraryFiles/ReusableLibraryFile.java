@@ -103,7 +103,7 @@ public class ReusableLibraryFile {
 		Select select = new Select(element);
 		select.selectByVisibleText(visibleText);
 	}
-	
+	//This method will take the failures screenshots
 	public static void TakeScreenShot(ITestResult result) throws IOException
 	{
 		String WSpath = System.getProperty("user.dir");

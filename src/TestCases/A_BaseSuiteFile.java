@@ -34,7 +34,7 @@ import ObjectRepository.AddEmployeePage;
 
 @Listeners(Configuration.TestListeners.class)
 public class A_BaseSuiteFile extends ReusableLibraryFile{
-	//declare test class objects here
+	
 	TC_LoginToPage obj_LoginToPage;
 	TC_AddEmplyoeeTest obj_addEmployeeTest;
 	TC_CheckLeaveBalanceTest obj_CheckLeaveBalanceTest;
